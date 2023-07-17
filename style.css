@@ -1,0 +1,29 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+  }
+  .button{
+    background-color: rgb(16, 175, 64);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    color: white;
+    margin-right: 20px;
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .score-button{
+    background-color:rgb(255, 105, 5);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    color: white;
+    margin-left: 80px;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
